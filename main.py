@@ -2,7 +2,9 @@ import random
 
 print()
 
+"""
 
+asdasd"""
 class Animals:
 
     def __init__(self, name):
